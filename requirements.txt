@@ -6,7 +6,6 @@ scikit-learn
 xgboost
 lightgbm
 requests
-smtplib
 joblib
 tensorflow
 secure-smtplib
