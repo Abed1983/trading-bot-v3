@@ -9,3 +9,4 @@ requests
 smtplib
 joblib
 tensorflow
+secure-smtplib
