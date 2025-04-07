@@ -1,6 +1,8 @@
 import streamlit as st
 
-st.title("🚀 Trading Bot v3")
-
-st.write("Welcome to your smart trading assistant!")
-st.write("This app uses machine learning to analyze market data.")
+def app():
+    st.title("Trading Bot")
+    st.write("Welcome to the trading bot interface!")
+    
+if __name__ == "__main__":
+    app()

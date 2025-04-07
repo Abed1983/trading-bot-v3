@@ -1,0 +1,2 @@
+# Log file for errors and other issues
+# Any error or info messages will be logged here
